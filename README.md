@@ -37,7 +37,8 @@ Azure, REST APIs, Microservices, CI/CD Pipelines, Docker, Kubernetes
 ### 📬 Contact  
 📧 Email: [srirampavu11@gmail.com](mailto:srirampavu11@gmail.com)  
 📱 Phone: 0610573174  
-💼 LinkedIn: [https://github.com/SriramPavu/SriramPavu/](www.linkedin.com/in/
+💼 LinkedIn: [www.linkedin.com/in/
+sriram-pavurala-329634249](www.linkedin.com/in/
 sriram-pavurala-329634249)  
 💻 GitHub: [https://github.com/SriramPavu/SriramPavu/](https://github.com/SriramPavu/SriramPavu/)  
 
